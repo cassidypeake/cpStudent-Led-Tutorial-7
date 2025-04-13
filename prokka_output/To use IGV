@@ -1,0 +1,35 @@
+Download.gbk file 
+Go to: https://igv.org/app/
+Genome -> local file -> .gbk
+Upload .gff as additional annotation to see names of genes
+Search bar: nif, rpoN, zur
+> Or can SCROLL
+
+      nif or nifA (.gff): product:   Nif-specific regulatory protein
+Location   NC_004463.1:2,196,261-2,198,009
+
+
+zur: product:   Zinc uptake regulation protein, Location   NC_004463.1:1,021,394-1,021,888
+
+
+rpoN: product:   RNA polymerase sigma-54 factor 2
+Location   NC_004463.1:771,986-773,599
+
+
+
+
+Hypothetical Proteins
+- Hypothetical proteins are genes that were predicted by annotation software (like Prokka), but they don’t match any known proteins in reference databases.
+We could get the genes amino acid sequence and BLAST it (blastp) to see if newer databases had more information. 
+
+> EX: Location   NC_004463.1:2,248,811-2,249,869
+
+
+
+
+More Options
+1. Can select top setting icon and select ”Three-frame Translate” to see stop and start codons. 
+2. Can also select bottom setting icon and change track color, height, and name. 
+3. Zoom in far enough and you can see all base pairs. 
+
+
