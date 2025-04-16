@@ -26,6 +26,8 @@ Hypothetical Proteins
 - Hypothetical proteins are genes that were predicted by annotation software (like Prokka), but they don’t match any known proteins in reference databases.
 We could get the gene's amino acid sequence and BLAST it (blastp) to see if newer databases had more information. 
 
+We can do this by RIGHT CLICKING and copying the feature sequence. 
+
 > EX: Location   NC_004463.1:2,248,811-2,249,869
 
 
